@@ -1,0 +1,12 @@
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\bin\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.exe
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\bin\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.deps.json
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\bin\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.runtimeconfig.json
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\bin\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.runtimeconfig.dev.json
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\bin\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.dll
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\bin\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.pdb
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\obj\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.AssemblyInfoInputs.cache
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\obj\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.AssemblyInfo.cs
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\obj\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.csproj.CoreCompileInputs.cache
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\obj\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.dll
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\obj\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.pdb
+C:\Users\yagol\Documents\MeusProjetos\Csharp.Projects\Uri test Cálculo Média Aritimética\obj\Debug\netcoreapp3.1\Uri test Cálculo Média Aritimética.genruntimeconfig.cache
